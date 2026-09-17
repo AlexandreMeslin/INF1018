@@ -31,6 +31,5 @@
 
 ![x86](https://img.shields.io/badge/x86-000000?style=flat-square&logo=x86&logoColor=white)
 ![x64](https://img.shields.io/badge/x64-2D3748?style=flat-square&logo=x64&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![C](https://img.shields.io/badge/C?style=flat-square&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C-F11111D?style=flat-square&logo=C&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
