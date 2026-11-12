@@ -14,5 +14,9 @@ int main(void) {
 
     dump(&ui, sizeof ui);
 
+    putchar('\n');
+
+    dump((void*)dump, sizeof dump);
+
     return 0;
 }
